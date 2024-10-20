@@ -10,8 +10,9 @@ const Blogs = () => {
   }, []);
   
   return (
-    <div>
-      <h1>Blogs: {blogs.length}</h1>
+    <div className="md:w-2/3 ">
+     <h1 className="text-4xl font-bold">Blogs : {blogs.length}</h1>
+     
     </div>
   );
 };
