@@ -6,7 +6,7 @@
     "author": "John Doe",
     "author__img": "https://example.com/john_doe.jpg",
     "posted_date": "2024-09-15",
-    "reading_time": "8 min",
+    "reading_time": 8,
     "hashtags": ["#mystery", "#adventure", "#fiction", "#novel"]
   },
   {
@@ -16,7 +16,7 @@
     "author": "Jane Smith",
     "author__img": "https://example.com/jane_smith.jpg",
     "posted_date": "2024-08-30",
-    "reading_time": "5 min",
+    "reading_time": 5,
     "hashtags": ["#poetry", "#mindfulness", "#meditation", "#selfcare"]
   },
   {
@@ -26,7 +26,7 @@
     "author": "Alex Johnson",
     "author__img": "https://example.com/alex_johnson.jpg",
     "posted_date": "2024-10-05",
-    "reading_time": "12 min",
+    "reading_time": 12,
     "hashtags": ["#technology", "#thriller", "#hacking", "#cybercrime"]
   },
   {
@@ -36,7 +36,7 @@
     "author": "Emily Rogers",
     "author__img": "https://example.com/emily_rogers.jpg",
     "posted_date": "2024-07-20",
-    "reading_time": "6 min",
+    "reading_time": 6,
     "hashtags": ["#romance", "#drama", "#shortstory", "#emotions"]
   },
   {
@@ -46,7 +46,7 @@
     "author": "Michael Lee",
     "author__img": "https://example.com/michael_lee.jpg",
     "posted_date": "2024-09-28",
-    "reading_time": "10 min",
+    "reading_time": 10,
     "hashtags": ["#sciencefiction", "#time", "#space", "#adventure"]
   }
 ]
